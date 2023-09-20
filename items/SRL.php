@@ -25,7 +25,9 @@ class SRLType {
 	public $EnginePlayData = "EnginePlayData";
 	public $EngineTutorialData= "EngineTutorialData";
 	public $EnginePreviewData = "EnginePreviewData";
-}$SRLType;
+};
+
+$SRLType = new SRLType();
 
 class SRL {
 	public $type = "";
