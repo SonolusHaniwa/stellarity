@@ -1,6 +1,12 @@
 <?php
 require_once "./components/header.php";
 require_once "./components/navbar.php";
+?>
+<div class="app">
+	<p>Welcome to World Best Star! If you are new to this site, Please read <a href="">How to use</a>.</p>
+	<h2>New charts</h2>
+	<div class="charts-container">
+<?php
 $srl = new LevelItem(
 	"wbs-hajakcyrbsozhc",
 	5, 
@@ -26,6 +32,10 @@ $srl = new LevelItem(
 	new SRL($SRLType.SkinData, "", ""),
 	new SRL($SRLType.SkinTexture, "", "")
 );*/
-print_r(json_encode($srl, JSON_UNESCAPED_UNICODE));
+echo getLevelCard($srl);
+?>
+	</div>
+</div>
+<?php
 require_once "./components/footer.php";
 ?>

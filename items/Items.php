@@ -4,15 +4,15 @@ class ItemList {
 	public $items = [];
 	public $search = [];
 
-	public function __construct($items = [], $search = []) {
-		$this->pageCount = intval((count($items) - 1) / 20) + 1;
+	public function __construct($items = [], $search = ["options" => []]) {
+		$this->pageCount = count($items) == 0 ? 0 : intval((count($items) - 1) / 20) + 1;
 		$this->items = $items;
 		$this->search = $search;
 	}
 
 	public function append($item) {
 		$this->items[] = $item;
-		$this->pageCount = intval((count($items) - 1) / 20) + 1;
+		$this->pageCount = count($items) == 0 ? 0 : intval((count($items) - 1) / 20) + 1;
 	}
 };
 

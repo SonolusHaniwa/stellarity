@@ -8,8 +8,9 @@ class SkinItem {
 	public $thumbnail = [];
 	public $data = [];
 	public $texture = [];
+	public $description = "";
 
-	public function __construct($name, $title, $subtitle, $author, $thumbnail, $data, $texture) {
+	public function __construct($name, $title, $subtitle, $author, $thumbnail, $data, $texture, $description) {
 		$this->name = $name;
 		$this->title = $title;
 		$this->subtitle = $subtitle;
@@ -17,6 +18,7 @@ class SkinItem {
 		$this->thumbnail = $thumbnail;
 		$this->data = $data;
 		$this->texture = $texture;
+		$this->description = $description;
 	}
 };
 ?>

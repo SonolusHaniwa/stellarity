@@ -1,21 +1,21 @@
 body {
-	color: white;
 	margin: 0px;
 }
 
 .app-navbar {
 	width: 100%;
-	height: 100px;
+	height: 80px;
 	background-color: orange;
 	display: flex;
 	display: -webkit-flex;
 	justify-content: space-between;
 	align-items: center;
+	color: white;
 }
 
 .app-navbar-apptitle {
-	height: 50px;
-	font-size: 40px;
+	height: 30px;
+	font-size: 30px;
 	margin: 0px;
 	margin-left: 50px;
 }
@@ -27,6 +27,31 @@ body {
 
 .app-navbar-button > button {
 	width: 100px;
-	height: 50px;
-	border-radius: 5px;
+	height: 40px;
+	border-radius: 10px;
+	background-color: white;
+	color: orange;
+	border: none;
+	font-size: 20px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.app {
+	width: 65%;
+	margin: auto;
+}
+
+.levelCard {
+	width: 475px;
+	height: 250px;
+	border-radius: 20px;
+	background-color: lightgrey;
+}
+
+.charts-container {
+	width: 100%;
+	display: flex;
+	display: -webkit-flex;
+	justify-content: center;
 }

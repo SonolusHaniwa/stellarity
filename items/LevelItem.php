@@ -15,8 +15,9 @@ class LevelItem {
 	public $bgm = [];
 	public $preview = [];
 	public $data = [];
+	public $description = "";
 	
-	public function __construct($name, $rating, $title, $artists, $author, $engine, $useSkin, $useBackground, $useEffect, $useParticle, $cover, $bgm, $preview, $data) {
+	public function __construct($name, $rating, $title, $artists, $author, $engine, $useSkin, $useBackground, $useEffect, $useParticle, $cover, $bgm, $preview, $data, $description) {
 		$this->name = $name;
 		$this->rating = $rating;
 		$this->title = $title;
@@ -31,6 +32,7 @@ class LevelItem {
 		$this->bgm = $bgm;
 		$this->preview = $preview;
 		$this->data = $data;
+		$this->description = $description;
 	}
 };
 ?>

@@ -9,8 +9,9 @@ class BackgroundItem {
 	public $data = [];
 	public $image = [];
 	public $configuration = [];
+	public $description = "";
 
-	public function __construct($name, $title, $subtitle, $author, $thumbnail, $data, $image, $configuration) {
+	public function __construct($name, $title, $subtitle, $author, $thumbnail, $data, $image, $configuration, $description) {
 		$this->name = $name;
 		$this->title = $title;
 		$this->subtitle = $subtitle;
@@ -19,6 +20,7 @@ class BackgroundItem {
 		$this->data = $data;
 		$this->image = $image;
 		$this->configuration = $configuration;
+		$this->description = $description;
 	}
 };
 ?>
