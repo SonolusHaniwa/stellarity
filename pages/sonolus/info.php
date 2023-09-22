@@ -1,4 +1,14 @@
 <?php
+$level_db = query("SELECT * FROM Levels ORDER BY publishTime DESC LIMIT 5");
+for ($i = count($level_db) - 1; $i >= 0; $i--) {
+	$res = $level_db[$i];
+	$levels = array_merge([new LevelItem(
+		$res["name"], $res["isOliver"] ? 30 + $res["level"] : $res["level"], $res["title"],
+ 		$res["composer"] . " / " . $res["artists"], $res["author"],
+		$engines[0], new UseItem(true), new UseItem(true), new UseItem(true), new UseItem(true),
+		[], [], [], [], ""
+	)], $levels);
+}
 echo json_encode([
 	"title" => $title,
     "banner" => $banner,

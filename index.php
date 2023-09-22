@@ -1,7 +1,7 @@
 <?php
 require_once "autoload.php";
 $path = $_SERVER['REQUEST_URI'];
-if (strpos($path, "?") != -1) $path = substr($path, 0, strpos($path, "?"));
+if (strpos($path, "?") !== false) $path = substr($path, 0, strpos($path, "?"));
 header("Sonolus-Version: 0.7.3");
 
 // 路由匹配
@@ -12,16 +12,6 @@ if ($path == "/" || $path == "/index") {
 if (substr($path, 0, 9) == "/sonolus/") {
 	header("Content-Type: application/json; charset=utf8");
 	require_once "./pages/sonolus/routes.php";
-	return;
-}
-if (substr($path, 0, 6) == "/auth/") {
-	header("Content-Type: application/json; charset=utf8");
-	require_once "./pages/auth/routes.php";
-	return;
-}
-if (substr($path, 0, 6) == "/test/") {
-	header("Content-Type: application/json; charset=utf8");
-	require_once "./pages/test/routes.php";
 	return;
 }
 if (file_exists("." . $path)) {
