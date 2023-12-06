@@ -14,7 +14,8 @@ CREATE TABLE Levels (
 	coverHash text,
 	backgroundHash text,
 	musicHash text,
-	dataHash text
+	dataHash text,
+	susHash text
 );
 INSERT INTO Levels VALUES ("wbs-test", true, 9, "Realize", "Unknown", "Unknown", "LittleYang0531", "自制谱平台测试", false, 0, 0, 0, "", "", "", "");
 CREATE TABLE LoginRequest (
