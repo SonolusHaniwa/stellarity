@@ -2503,18 +2503,18 @@
         {
             "audio" : 
             {
-                "hash" : "11d07cd7e5984181e87066d5745112674ab6a753",
+                "hash" : "ca7e176af08d96b485a72d59f26da06e1e7547e2",
                 "type" : "EffectAudio",
-                "url" : "/data/11d07cd7e5984181e87066d5745112674ab6a753"
+                "url" : "/data/ca7e176af08d96b485a72d59f26da06e1e7547e2"
             },
             "author" : "LittleYang0531",
             "data" : 
             {
-                "hash" : "c5809b0d0f595655d669bf2d67cab30ce6bafdb5",
+                "hash" : "492db11a49cf73bac880c2b52b102228b498a5e6",
                 "type" : "EffectData",
-                "url" : "/data/c5809b0d0f595655d669bf2d67cab30ce6bafdb5"
+                "url" : "/data/492db11a49cf73bac880c2b52b102228b498a5e6"
             },
-            "description" : "",
+            "description" : "Version: 1.1.0",
             "name" : "sirius",
             "subtitle" : "World Dai Star: Dream's Stellarium",
             "thumbnail" : 
@@ -2581,18 +2581,18 @@
             {
                 "audio" : 
                 {
-                    "hash" : "11d07cd7e5984181e87066d5745112674ab6a753",
+                    "hash" : "ca7e176af08d96b485a72d59f26da06e1e7547e2",
                     "type" : "EffectAudio",
-                    "url" : "/data/11d07cd7e5984181e87066d5745112674ab6a753"
+                    "url" : "/data/ca7e176af08d96b485a72d59f26da06e1e7547e2"
                 },
                 "author" : "LittleYang0531",
                 "data" : 
                 {
-                    "hash" : "c5809b0d0f595655d669bf2d67cab30ce6bafdb5",
+                    "hash" : "492db11a49cf73bac880c2b52b102228b498a5e6",
                     "type" : "EffectData",
-                    "url" : "/data/c5809b0d0f595655d669bf2d67cab30ce6bafdb5"
+                    "url" : "/data/492db11a49cf73bac880c2b52b102228b498a5e6"
                 },
-                "description" : "",
+                "description" : "Version: 1.1.0",
                 "name" : "sirius",
                 "subtitle" : "World Dai Star: Dream's Stellarium",
                 "thumbnail" : 
