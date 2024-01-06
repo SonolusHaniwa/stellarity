@@ -15,6 +15,38 @@
                 "type" : "BackgroundData",
                 "url" : "/data/adad592c5532a4faf64bcd56f6ef1ac65d783e1f"
             },
+            "description" : "Pronounce Name: あすのよぞらしょうかいはん\nArranger: -\nComposer: Orangestar\nLyric Writer: Orangestar\nSinger: 猫足蕾\nApp Version: 1.12.2\nAssets Version: 1.5.0\nMaster Data Version: 1704459317_1704459317\n",
+            "image" : 
+            {
+                "hash" : "eb3370ed9ba086b4cb711e293c618e2bdc019f5e",
+                "type" : "BackgroundImage",
+                "url" : "/data/eb3370ed9ba086b4cb711e293c618e2bdc019f5e"
+            },
+            "name" : "sirius-86",
+            "subtitle" : "猫足蕾",
+            "thumbnail" : 
+            {
+                "hash" : "a1d3a951cece221d04b26bde1f012ae0b0e7122f",
+                "type" : "BackgroundThumbnail",
+                "url" : "/data/a1d3a951cece221d04b26bde1f012ae0b0e7122f"
+            },
+            "title" : "アスノヨゾラ哨戒班",
+            "version" : 2
+        },
+        {
+            "author" : "ワールドダイスター 夢のステラリウム",
+            "configuration" : 
+            {
+                "hash" : "d6d0a3f33b1be72cf49c3e5fe7ef248ee8a0a5fa",
+                "type" : "BackgroundConfiguration",
+                "url" : "/data/d6d0a3f33b1be72cf49c3e5fe7ef248ee8a0a5fa"
+            },
+            "data" : 
+            {
+                "hash" : "adad592c5532a4faf64bcd56f6ef1ac65d783e1f",
+                "type" : "BackgroundData",
+                "url" : "/data/adad592c5532a4faf64bcd56f6ef1ac65d783e1f"
+            },
             "description" : "Pronounce Name: happynewshowtime\nArranger: 光増ハジメ（FirstCall）\nComposer: 光増ハジメ（FirstCall）\nLyric Writer: 松井洋平\nSinger: カトリナ・グリーベル、鳳ここな、静香\nApp Version: 1.12.2\nAssets Version: 1.5.0\nMaster Data Version: 1704459317_1704459317\n",
             "image" : 
             {
@@ -2764,9 +2796,9 @@
             },
             "data" : 
             {
-                "hash" : "5948d937221d9bc3e19d3bd986a722502055e094",
+                "hash" : "857c80d490ba899d882a00aac530337822a365bd",
                 "type" : "EngineData",
-                "url" : "/data/5948d937221d9bc3e19d3bd986a722502055e094"
+                "url" : "/data/857c80d490ba899d882a00aac530337822a365bd"
             },
             "description" : "A recreation of World Dai Star: Dream's Stellarium engine in Sonolus.\nSirius Version: 1.1.0.20240105_beta\nSonolus.h Version: 2.0.0_20240105_beta\n\nGithub Repository\nhttps://github.com/SonolusHaniwa/sonolus-sirius-engine",
             "effect" : 
@@ -2826,9 +2858,9 @@
             },
             "playData" : 
             {
-                "hash" : "5948d937221d9bc3e19d3bd986a722502055e094",
+                "hash" : "857c80d490ba899d882a00aac530337822a365bd",
                 "type" : "EnginePlayData",
-                "url" : "/data/5948d937221d9bc3e19d3bd986a722502055e094"
+                "url" : "/data/857c80d490ba899d882a00aac530337822a365bd"
             },
             "previewData" : 
             {
