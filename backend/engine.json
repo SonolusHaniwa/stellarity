@@ -3596,9 +3596,9 @@
             },
             "data" : 
             {
-                "hash" : "fde48655664493bfbcb359cc3cb4baeecff9030f",
+                "hash" : "76fd59db33510de8dce5e45a70f575cabbab940a",
                 "type" : "EngineData",
-                "url" : "/data/fde48655664493bfbcb359cc3cb4baeecff9030f"
+                "url" : "/data/76fd59db33510de8dce5e45a70f575cabbab940a"
             },
             "description" : "A recreation of World Dai Star: Dream's Stellarium engine in Sonolus.\nSirius Version: 1.1.1.20240320_beta\nSonolus.h Version: 2.0.0_20240320_beta\n\nGithub Repository\nhttps://github.com/SonolusHaniwa/sonolus-sirius-engine",
             "effect" : 
@@ -3658,33 +3658,33 @@
             },
             "playData" : 
             {
-                "hash" : "fde48655664493bfbcb359cc3cb4baeecff9030f",
+                "hash" : "76fd59db33510de8dce5e45a70f575cabbab940a",
                 "type" : "EnginePlayData",
-                "url" : "/data/fde48655664493bfbcb359cc3cb4baeecff9030f"
+                "url" : "/data/76fd59db33510de8dce5e45a70f575cabbab940a"
             },
             "previewData" : 
             {
-                "hash" : "e8612fc940592b39510c99126412296563187eea",
+                "hash" : "feba016cd8c4c27cbfe7e26cd81226d7006b3c4a",
                 "type" : "EnginePreviewData",
-                "url" : "/data/e8612fc940592b39510c99126412296563187eea"
+                "url" : "/data/feba016cd8c4c27cbfe7e26cd81226d7006b3c4a"
             },
             "skin" : 
             {
                 "author" : "LittleYang0531",
                 "data" : 
                 {
-                    "hash" : "88a0a1dcb6d725ac89b3f2583bbcff4275b6894a",
+                    "hash" : "46f7ffa056f42a93d17d60f169f562f42d6161a3",
                     "type" : "SkinData",
-                    "url" : "/data/88a0a1dcb6d725ac89b3f2583bbcff4275b6894a"
+                    "url" : "/data/46f7ffa056f42a93d17d60f169f562f42d6161a3"
                 },
                 "description" : "Version: 1.1.0",
                 "name" : "sirius",
                 "subtitle" : "World Dai Star: Dream's Stellarium",
                 "texture" : 
                 {
-                    "hash" : "6617d000b2f37d1cf819e6856b1cbf68288ce5d7",
+                    "hash" : "c0e13f537f881fb2b551b9d77e51d479bf170242",
                     "type" : "SkinTexture",
-                    "url" : "/data/6617d000b2f37d1cf819e6856b1cbf68288ce5d7"
+                    "url" : "/data/c0e13f537f881fb2b551b9d77e51d479bf170242"
                 },
                 "thumbnail" : 
                 {
@@ -3712,9 +3712,9 @@
             "version" : 11,
             "watchData" : 
             {
-                "hash" : "beb3638dcf5e9933a32770a6096ec2c7476ee017",
+                "hash" : "a90be7a950a5dfbb23a837841640961c4dc3243e",
                 "type" : "EngineWatchData",
-                "url" : "/data/beb3638dcf5e9933a32770a6096ec2c7476ee017"
+                "url" : "/data/a90be7a950a5dfbb23a837841640961c4dc3243e"
             }
         }
     ],
@@ -3779,18 +3779,18 @@
             "author" : "LittleYang0531",
             "data" : 
             {
-                "hash" : "88a0a1dcb6d725ac89b3f2583bbcff4275b6894a",
+                "hash" : "46f7ffa056f42a93d17d60f169f562f42d6161a3",
                 "type" : "SkinData",
-                "url" : "/data/88a0a1dcb6d725ac89b3f2583bbcff4275b6894a"
+                "url" : "/data/46f7ffa056f42a93d17d60f169f562f42d6161a3"
             },
             "description" : "Version: 1.1.0",
             "name" : "sirius",
             "subtitle" : "World Dai Star: Dream's Stellarium",
             "texture" : 
             {
-                "hash" : "6617d000b2f37d1cf819e6856b1cbf68288ce5d7",
+                "hash" : "c0e13f537f881fb2b551b9d77e51d479bf170242",
                 "type" : "SkinTexture",
-                "url" : "/data/6617d000b2f37d1cf819e6856b1cbf68288ce5d7"
+                "url" : "/data/c0e13f537f881fb2b551b9d77e51d479bf170242"
             },
             "thumbnail" : 
             {
