@@ -4247,9 +4247,9 @@
             },
             "data" : 
             {
-                "hash" : "8af43d59163435323b645544c644854e5c36e75c",
+                "hash" : "e908b77379bca2460dc8a45acbfe67de306f0801",
                 "type" : "EngineData",
-                "url" : "/data/8af43d59163435323b645544c644854e5c36e75c"
+                "url" : "/data/e908b77379bca2460dc8a45acbfe67de306f0801"
             },
             "description" : "A recreation of World Dai Star: Dream's Stellarium engine in Sonolus.\nSirius Version: 1.1.2.20240420_beta\nSonolus.h Version: 2.0.0_20240320_beta\n\nGithub Repository\nhttps://github.com/SonolusHaniwa/sonolus-sirius-engine",
             "effect" : 
@@ -4316,9 +4316,9 @@
             },
             "playData" : 
             {
-                "hash" : "8af43d59163435323b645544c644854e5c36e75c",
+                "hash" : "e908b77379bca2460dc8a45acbfe67de306f0801",
                 "type" : "EnginePlayData",
-                "url" : "/data/8af43d59163435323b645544c644854e5c36e75c"
+                "url" : "/data/e908b77379bca2460dc8a45acbfe67de306f0801"
             },
             "previewData" : 
             {
