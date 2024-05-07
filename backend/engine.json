@@ -4277,9 +4277,9 @@
         {
             "audio" : 
             {
-                "hash" : "52d2d65a31440a75a05acd858bbc245eb1c85daa",
+                "hash" : "95b1918c700231845e62d2c487de37b7d93cdfa0",
                 "type" : "EffectAudio",
-                "url" : "/data/52d2d65a31440a75a05acd858bbc245eb1c85daa"
+                "url" : "/data/95b1918c700231845e62d2c487de37b7d93cdfa0"
             },
             "author" : "LittleYang0531",
             "data" : 
@@ -4356,14 +4356,14 @@
                 "type" : "EngineData",
                 "url" : "/data/66f654e1584f63000c5cc8fa673ea16885d1c414"
             },
-            "description" : "A recreation of World Dai Star: Dream's Stellarium engine in Sonolus.\nSirius Version: 1.1.3_20240505_beta\nSonolus.h Version: 2.0.0_20240320_beta\n\nGithub Repository\nhttps://github.com/SonolusHaniwa/sonolus-sirius-engine",
+            "description" : "A recreation of World Dai Star: Dream's Stellarium engine in Sonolus.\nSirius Version: 1.1.3_20240508_beta\nSonolus.h Version: 2.0.0_20240320_beta\n\nGithub Repository\nhttps://github.com/SonolusHaniwa/sonolus-sirius-engine",
             "effect" : 
             {
                 "audio" : 
                 {
-                    "hash" : "52d2d65a31440a75a05acd858bbc245eb1c85daa",
+                    "hash" : "95b1918c700231845e62d2c487de37b7d93cdfa0",
                     "type" : "EffectAudio",
-                    "url" : "/data/52d2d65a31440a75a05acd858bbc245eb1c85daa"
+                    "url" : "/data/95b1918c700231845e62d2c487de37b7d93cdfa0"
                 },
                 "author" : "LittleYang0531",
                 "data" : 
