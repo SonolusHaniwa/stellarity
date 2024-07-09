@@ -5292,9 +5292,9 @@
         {
             "audio" : 
             {
-                "hash" : "8fea379b75ee6fffa1f09fe08f34bc984036f652",
+                "hash" : "89da63491bd3efdb4e7d7e1f19f5d24ba9503697",
                 "type" : "EffectAudio",
-                "url" : "/data/8fea379b75ee6fffa1f09fe08f34bc984036f652"
+                "url" : "/data/89da63491bd3efdb4e7d7e1f19f5d24ba9503697"
             },
             "author" : "LittleYang0531",
             "data" : 
@@ -5303,7 +5303,7 @@
                 "type" : "EffectData",
                 "url" : "/data/c436a3cb90ff54e203ba3c81aa4a76678e173f57"
             },
-            "description" : "",
+            "description" : "Version: 1.1.0",
             "id" : 1,
             "name" : "sirius",
             "source" : "http://192.168.0.18:8080",
@@ -5367,18 +5367,18 @@
             },
             "data" : 
             {
-                "hash" : "9e97adeb7e6ee1f9b9a18e8ccba1f0152717ce57",
+                "hash" : "16c9d83fd1ad3e3b28ab983648b3b1c445837796",
                 "type" : "EngineData",
-                "url" : "/data/9e97adeb7e6ee1f9b9a18e8ccba1f0152717ce57"
+                "url" : "/data/16c9d83fd1ad3e3b28ab983648b3b1c445837796"
             },
             "description" : "A recreation of World Dai Star: Dream's Stellarium engine in Sonolus.\nSirius Version: 1.1.4_20240617_beta\nSonolus.h Version: 2.0.0_20240320_beta\n\nGithub Repository\nhttps://github.com/SonolusHaniwa/sonolus-sirius-engine",
             "effect" : 
             {
                 "audio" : 
                 {
-                    "hash" : "8fea379b75ee6fffa1f09fe08f34bc984036f652",
+                    "hash" : "89da63491bd3efdb4e7d7e1f19f5d24ba9503697",
                     "type" : "EffectAudio",
-                    "url" : "/data/8fea379b75ee6fffa1f09fe08f34bc984036f652"
+                    "url" : "/data/89da63491bd3efdb4e7d7e1f19f5d24ba9503697"
                 },
                 "author" : "LittleYang0531",
                 "data" : 
@@ -5387,7 +5387,7 @@
                     "type" : "EffectData",
                     "url" : "/data/c436a3cb90ff54e203ba3c81aa4a76678e173f57"
                 },
-                "description" : "",
+                "description" : "Version: 1.1.0",
                 "id" : 1,
                 "name" : "sirius",
                 "source" : "http://192.168.0.18:8080",
@@ -5436,26 +5436,26 @@
             },
             "playData" : 
             {
-                "hash" : "9e97adeb7e6ee1f9b9a18e8ccba1f0152717ce57",
+                "hash" : "16c9d83fd1ad3e3b28ab983648b3b1c445837796",
                 "type" : "EnginePlayData",
-                "url" : "/data/9e97adeb7e6ee1f9b9a18e8ccba1f0152717ce57"
+                "url" : "/data/16c9d83fd1ad3e3b28ab983648b3b1c445837796"
             },
             "previewData" : 
             {
-                "hash" : "bd898bd433793ea737d00a5169dec69e9dece4a2",
+                "hash" : "203e92b4a051e5e2d238d27e067a403905c82f4b",
                 "type" : "EnginePreviewData",
-                "url" : "/data/bd898bd433793ea737d00a5169dec69e9dece4a2"
+                "url" : "/data/203e92b4a051e5e2d238d27e067a403905c82f4b"
             },
             "skin" : 
             {
                 "author" : "LittleYang0531",
                 "data" : 
                 {
-                    "hash" : "46eacdc61a6acaed2b2d5718d930fd28d0666a40",
+                    "hash" : "7a278618691c88526e5749c78b2a67776b71a5ad",
                     "type" : "SkinData",
-                    "url" : "/data/46eacdc61a6acaed2b2d5718d930fd28d0666a40"
+                    "url" : "/data/7a278618691c88526e5749c78b2a67776b71a5ad"
                 },
-                "description" : "",
+                "description" : "Version: 1.1.0",
                 "id" : 1,
                 "name" : "sirius",
                 "source" : "http://192.168.0.18:8080",
@@ -5463,9 +5463,9 @@
                 "tags" : [],
                 "texture" : 
                 {
-                    "hash" : "19c11074209e75173a2e01fabdaad0032ddaf912",
+                    "hash" : "d8ba71eda3f962e8564130735a32349918062396",
                     "type" : "SkinTexture",
-                    "url" : "/data/19c11074209e75173a2e01fabdaad0032ddaf912"
+                    "url" : "/data/d8ba71eda3f962e8564130735a32349918062396"
                 },
                 "thumbnail" : 
                 {
@@ -5495,9 +5495,9 @@
             "version" : 12,
             "watchData" : 
             {
-                "hash" : "bb73252ca97217eff1378772f13dd72e2eae3740",
+                "hash" : "041f4c9a1ba38b783712c31f37644997dcc1a161",
                 "type" : "EngineWatchData",
-                "url" : "/data/bb73252ca97217eff1378772f13dd72e2eae3740"
+                "url" : "/data/041f4c9a1ba38b783712c31f37644997dcc1a161"
             }
         }
     ],
@@ -5568,11 +5568,11 @@
             "author" : "LittleYang0531",
             "data" : 
             {
-                "hash" : "46eacdc61a6acaed2b2d5718d930fd28d0666a40",
+                "hash" : "7a278618691c88526e5749c78b2a67776b71a5ad",
                 "type" : "SkinData",
-                "url" : "/data/46eacdc61a6acaed2b2d5718d930fd28d0666a40"
+                "url" : "/data/7a278618691c88526e5749c78b2a67776b71a5ad"
             },
-            "description" : "",
+            "description" : "Version: 1.1.0",
             "id" : 1,
             "name" : "sirius",
             "source" : "http://192.168.0.18:8080",
@@ -5580,9 +5580,9 @@
             "tags" : [],
             "texture" : 
             {
-                "hash" : "19c11074209e75173a2e01fabdaad0032ddaf912",
+                "hash" : "d8ba71eda3f962e8564130735a32349918062396",
                 "type" : "SkinTexture",
-                "url" : "/data/19c11074209e75173a2e01fabdaad0032ddaf912"
+                "url" : "/data/d8ba71eda3f962e8564130735a32349918062396"
             },
             "thumbnail" : 
             {
